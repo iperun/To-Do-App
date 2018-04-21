@@ -1,0 +1,18 @@
+body {
+  background: url('../img/andrew-neel-109201-unsplash.jpg') no-repeat center center fixed;
+  background-color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#heading {
+  margin-top: 36px;
+  font-size: 28px;
+  color: #a8d6f9f0;
+  font-family: monospace;
+  font-style: oblique;
+  text-decoration: underline;
+  text-decoration-style: double;
+}
