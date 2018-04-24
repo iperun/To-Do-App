@@ -1,27 +1,31 @@
-#bg {
-  background: url('../img/andrew-neel-109201-unsplash.jpg') no-repeat center center fixed;
+body {
+  background: url('../img/rawpixel-com-603666-unsplash.jpg') no-repeat center center fixed;
   background-color: white;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
-  height: -webkit-fill-available;
 }
 
 #heading {
+  text-align: center;
   margin-top: 36px;
-  font-size: 2.2em;
-  color: #a8d6f9c2;
+  font-size: 3em;
+  color: #a8d6f9eb;
   font-family: monospace;
   font-style: oblique;
   text-decoration: line-through;
-  text-decoration-style: dashed;
-  text-decoration-color: #ffffff54;
+  text-decoration-style: initial;
+  text-decoration-color: #ffffff00;
+  text-shadow: 1px 1px 8px #080808;
 }
 
-.container {
-  padding-top: 5%;
-  padding-left: 60px;
+.img-responsive {
+  border-radius: 4%;
+  opacity: .78;
+}
+
+.btn-info {
+  color: rgba(0, 0, 0, .5);
+  background-color: #f5f5f5db;
+  border-color: #46b8da;
 }
 
 #new-todo {
