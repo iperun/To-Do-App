@@ -6,7 +6,7 @@ function addItem() {
     }, 400);
   } else {
     var text = $('#new-todo').val();
-    $('#to-do-list').append('<li><input type="checkbox" class="done" required/>' + text + '<button class="delete btn">X</button></li>');
+    $('#to-do-list').append('<li><input type="checkbox" class="done" required/>' + text + '<button class="delete btn"> X </button></li>');
     $('#new-todo').val('');
   }
 }
