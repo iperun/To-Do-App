@@ -31,29 +31,31 @@ body {
 #new-todo {
   background: #88eafb42;
 }
+
 #to-do-list {
   list-style-type: none;
   font-size: 20px;
   font-family: serif;
   text-transform: uppercase;
   color: black;
-
 }
+
 .delete {
   border: 1.2px solid #a94442;
-      border-radius: 60%;
-      color: #a94442;
-          font-weight: 600;
-          padding: 0px 5px;
-          margin-left: 10px;
-          vertical-align:middle;
+  border-radius: 60%;
+  color: #a94442;
+  font-weight: 600;
+  padding: 0px 5px;
+  margin-left: 10px;
+  vertical-align: middle;
 }
+
 input[type="checkbox"] {
-    display:none;
-    display:inline-block;
-    width:19px;
-    height:19px;
-    margin:-2px 10px 0 0;
-    vertical-align:middle;
-    cursor:pointer;
+  display: none;
+  display: inline-block;
+  width: 19px;
+  height: 19px;
+  margin: -2px 10px 0 0;
+  vertical-align: middle;
+  cursor: pointer;
 }
