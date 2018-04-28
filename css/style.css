@@ -28,7 +28,7 @@ body {
 
 #new-todo {
   background: #88eafb42;
-      margin-top: 60px;
+  margin-top: 60px;
 }
 
 #to-do-list {
@@ -75,6 +75,7 @@ input[type="checkbox"] {
   opacity: .78;
   margin-right: 12px;
 }
+
 ol, ul {
-      margin-top: 20px;
-    }
+  margin-top: 20px;
+}
