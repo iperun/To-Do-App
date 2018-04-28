@@ -5,7 +5,7 @@ README
 ### Project Overview
 Single page application where you can input/add tasks, check them off when completed, and delete them.
 
-![alt text](img\to-do-app.png "To Do List")
+![To Do List](https://github.com/iperun/To-Do-App/blob/master/img/to-do-app.png "To Do List")
 
 ### To get started
 - Visit the site [HERE](https://iperun.github.io/To-Do-App/)
