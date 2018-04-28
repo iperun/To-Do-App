@@ -61,7 +61,7 @@ input[type="checkbox"] {
 
 #todo.container {
   height: 640px;
-  width: auto;
+  width: 400px;
   margin-top: 50px;
   display: inline-block;
   margin-left: 50px;
